@@ -1,0 +1,50 @@
+button {
+  padding: 9px 16px;
+  max-height: 40px;
+  *box-shadow: 4px 4px 15px 0 rgb(0 0 0 / 20%);
+  border-color: #254cdd;
+  border: none;
+  background: none;
+  color: white;
+  background-color: #254cdd;
+  border-radius: 6px;
+  align-items: center;
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+  font-weight: bold;
+  cursor: pointer;
+  min-width: 160px;
+  margin-top: 70px;
+  font-family: Rubik, sans-serif;
+}
+
+#row {
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+}
+
+#select {
+  width: 200px;
+  font-size: 20px;
+
+}
+
+#selectasset {
+  margin-left: 50px;
+  width: 100px;
+  font-size: 20px;
+}
+
+.input {
+  margin-left: 50px;
+  width: 100px;
+  height: 30px;
+  font-size: 20px;
+}
+
+#quoteResult {
+  font-size: 20px;
+  margin-top: 100px;
+}
