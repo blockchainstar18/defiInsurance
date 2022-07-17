@@ -9,7 +9,7 @@ import {
 } from "./util/interact.js";
 
 import alchemylogo from "./alchemylogo.svg";
-import BrightClient from '@brightunion/sdk'
+// import BrightClient from '@brightunion/sdk'
 import axios from "axios";
 
 const HelloWorld = () => {
